@@ -315,10 +315,10 @@
     <string name="pushtx_returns_null">Spend failed. Server returned null value.</string>
 
     <string name="trusted_node">Trusted node</string>
-    <string name="trusted_node_user_hint">rpc user name</string>
+    <string name="trusted_node_user_hint">RPC username</string>
     <string name="trusted_node_ip_hint">IP address</string>
     <string name="trusted_node_port_hint">Port (8332 default)</string>
-    <string name="trusted_node_password_hint">rpc user password</string>
+    <string name="trusted_node_password_hint">RPC user password</string>
     <string name="trusted_node_not_valid">Please supply valid info for your trusted node.</string>
     <string name="trusted_node_ko">Trusted node not recognized. Please check installation.</string>
     <string name="trusted_node_error">Error reaching proposed trusted node.</string>
@@ -703,10 +703,10 @@
     <string name="you_received_s">You received</string>
     <string name="paynym_follow_message">This fee covers the cost of creating a special  type of transaction on the blockchain.  This keeps PayNym decentralized</string>
     <string name="paynym_follow_fee_message">A one time connection fee of   will be charged to follow contact</string>
-    <string name="initializing_tor">initializing Tor...</string>
+    <string name="initializing_tor">Initializing Tor...</string>
 
     <string name="cannot_pair_whirlpool_gui">Cannot prepare pair to Whirlpool GUI.</string>
-    <string name="message_copied">message copied</string>
+    <string name="message_copied">Message copied</string>
     <string name="scan_code">Scan Code</string>
     <string name="follows_you">Follows you</string>
     <string name="edit_paynym">Edit PayNym</string>

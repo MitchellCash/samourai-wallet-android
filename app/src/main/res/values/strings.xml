@@ -417,9 +417,6 @@
     <string name="MainNet">MainNet</string>
     <string name="TestNet">TestNet</string>
 
-    <string name="segwit_address">Segwit Address</string>
-    <string name="segwit_switch_prompt">Funds deposited in Segwit addresses are more efficient to transact with. Offering reduced miner fees when sending bitcoin from your wallet.</string>
-
     <string name="privkey_clipboard">A private key has been identified in your clipboard. Delete the clipboard contents?</string>
 
     <string name="tx_hex">Transaction hex</string>
